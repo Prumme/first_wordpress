@@ -1,0 +1,22 @@
+/*
+Theme Name: Minimaliste
+Theme URI: https://github.com/Prumme
+Author: Prumme
+Author URI: https://github.com/Prumme
+Description: Thème minimaliste eheh
+Requires at least: 5.9
+Tested up to: 6.1
+Requires PHP: 5.6
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: minimaliste
+
+*/
+
+@import "vendor/normalize";
+@import "vendor/bootstrap-grid";
+
+@import "partials/globals.scss";
+
+@import "components/header.scss";
